@@ -1,0 +1,16 @@
+.kreml {color: red;}
+.strana {color: blue;}
+div {background-color: rgb(227, 152, 55);}
+.h1 {background-color: red;
+    text-align: center;}
+.Year {float: left;}
+.podarki {float: right;}
+.venok {float: left;}
+.Asia {float: right;}
+.ded {float: left;
+    background-color: aqua;}
+.Merry {float: right;}
+.elka {float: left;}
+main {background-color: greenyellow;}
+.istoria {background-color: rgb(38, 79, 193);
+            text-align: center;}
